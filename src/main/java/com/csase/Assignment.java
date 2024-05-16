@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 /*
- * Represents an assignment with a name and due date
+ * Represents an assignment with a name and due date 
  */
 public class Assignment {
     
